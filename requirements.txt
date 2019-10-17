@@ -1,0 +1,7 @@
+pandas
+numpy
+selenium
+nltk
+scikit-learn
+statistics
+bs4
